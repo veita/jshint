@@ -10,3 +10,9 @@ demo.js
 .idea
 
 coverage/
+
+# Eclipse
+/.settings
+/.project
+/.classpath
+/target
